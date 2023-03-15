@@ -1,10 +1,10 @@
 [
   {
-    "package": "maybe",
+    "package": "quickcheck",
     "oncran": true
   },
   {
-    "package": "quickcheck",
+    "package": "maybe",
     "oncran": true
   }
 ]
